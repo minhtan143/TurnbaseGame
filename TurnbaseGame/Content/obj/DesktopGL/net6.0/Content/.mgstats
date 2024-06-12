@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/TurnbaseGame/TurnbaseGame/Content/defaultFont.spritefont","D:/TurnbaseGame/TurnbaseGame/Content/bin/DesktopGL/Content/defaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",414,37919,0.1184002
+"D:/TurnbaseGame/TurnbaseGame/Content/Topic.jpg","D:/TurnbaseGame/TurnbaseGame/Content/bin/DesktopGL/Content/Topic.xnb","TextureProcessor","Texture2DContent",138110,3218405,0.118684

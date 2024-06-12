@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnbaseGame", "TurnbaseGame.csproj", "{FBA52603-7EE7-4C4C-98F6-5A61062F7C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA52603-7EE7-4C4C-98F6-5A61062F7C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA52603-7EE7-4C4C-98F6-5A61062F7C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA52603-7EE7-4C4C-98F6-5A61062F7C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA52603-7EE7-4C4C-98F6-5A61062F7C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11267166-6E6A-4667-ACFF-438A062E3B36}
+	EndGlobalSection
+EndGlobal
